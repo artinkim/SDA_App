@@ -1,2 +1,2 @@
 # SDA_App
-This is the react-native app for SDA.
+OLD REPO DO NOT USE
